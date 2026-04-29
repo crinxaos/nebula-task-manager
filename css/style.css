@@ -1,0 +1,19 @@
+.toast {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #111;
+    color: #00ff88;
+    padding: 10px;
+    border-radius: 6px;
+    opacity: 0;
+    transition: .3s;
+}
+
+.toast.show {
+    opacity: 1;
+}
+
+.toast.error {
+    color: red;
+}
