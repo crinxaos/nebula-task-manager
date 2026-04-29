@@ -3,6 +3,7 @@
 
 <head>
     <title>Login</title>
+    <p>This is a test from Ubuntu</p>
     <link rel="stylesheet" href="css/style.css">
 </head>
 
